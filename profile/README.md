@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Bem-vindos ao GitHUb da Salesforce Women in Tech, São Paulo!
+Bem-vindos ao GitHub da Salesforce Women in Tech, São Paulo!
 
 Aqui, você encontrará as informações mais importantes sobre a nossa comunidade.
 
