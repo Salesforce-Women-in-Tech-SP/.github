@@ -1,4 +1,4 @@
-# .github
+# Salesforce Women in Tech São Paulo
 
 Bem-vindos ao GitHUb da Salesforce Women in Tech, São Paulo!
 
